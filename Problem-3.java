@@ -1,7 +1,7 @@
 
 import java.util.*;
 
-public class Rough3 {
+public class Problem3 {
 
 	public static void main(String[] args) {
 		
